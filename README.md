@@ -6,10 +6,10 @@ I'm a Software Developer at **P99Soft Pvt Ltd** in India, specializing in a wide
 
 | Frontend           | Backend              | Database Management | Tools & Technologies  |
 |-------------------|---------------------|---------------------|------------------------|
-| React.js          | C#                  | Supabase            | Webpack                |
-| Next.js           | .NET                | MongoDB             | Rollup                 |
-| Redux             | Go                  |                     | CI/CD (Vercel)        |
-| Expo              | Node.js             |                     | Git                    |
+| React.js          | Nodejs| Postgrace SQl           | Webpack                |
+| Next.js           | Go                | MongoDB             | Rollup                 |
+| Redux             |                   | SQL                  | CI/CD (Vercel)        |
+| Expo              |              |                     | Git                    |
 
 ## 🚀 Projects
 
